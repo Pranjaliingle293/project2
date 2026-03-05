@@ -1,4 +1,4 @@
 # New Project
 
 This project is created on local system
-Created by Pranjali Ingle
+Created by Pranjali Ingle.
